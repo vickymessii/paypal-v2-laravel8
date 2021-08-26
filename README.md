@@ -14,9 +14,9 @@ Paypal version 2 Checkout implemention in laravel 8.
 
 <code>
     
-    PAYPAL_MODE=sandbox or live <br/>
+    PAYPAL_MODE=sandbox or live 
     
-    PAYPAL_CLIENT_ID=<br/>
+    PAYPAL_CLIENT_ID=
     
     PAYPAL_SECRET_KEY=
 </code>
