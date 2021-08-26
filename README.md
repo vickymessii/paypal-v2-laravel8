@@ -22,3 +22,5 @@ Paypal version 2 Checkout implemention in laravel 8.
 </code>
 <p> Update these variable with actul config & run your project. <code>php artisan serve</code></p>
 
+Inspired by this article <a href="https://medium.com/@unlimited.programing/complete-solution-to-integrate-paypal-in-jquery-laravel-d8ef997ef9bf">Complete Solution to integrate PayPal v2 with JQuery + Laravel?</a>
+
